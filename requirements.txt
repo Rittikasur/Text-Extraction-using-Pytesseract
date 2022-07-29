@@ -1,0 +1,7 @@
+flask_restful
+pytesseract
+flask
+opencv-python-headless 
+werkzeug
+gunicorn
+flask_cors
